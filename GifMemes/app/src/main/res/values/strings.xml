@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Developers Life</string>
+    <string name="back">назад</string>
+    <string name="next">следующий</string>
+    <string name="errorText">Произошла ошибка при загрузке данных. Проверьте подключение к сети.</string>
+    <string name="errorButton">ПОВТОРИТЬ</string>
+</resources>
